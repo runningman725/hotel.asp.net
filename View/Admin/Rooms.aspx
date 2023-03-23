@@ -59,6 +59,7 @@
                 <asp:GridView ID="RoomsGV" runat="server" class="table" AutoGenerateSelectButton="True" OnSelectedIndexChanged="RoomsGV_SelectedIndexChanged">
                 </asp:GridView>
             </div>
+            <div></div>
         </div>
     </div>
 </asp:Content>
